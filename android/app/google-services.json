@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "973802004041",
+    "project_id": "fluttergym-52a0a",
+    "storage_bucket": "fluttergym-52a0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973802004041:android:17813a2eda78d794afe998",
+        "android_client_info": {
+          "package_name": "com.example.fluttergym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973802004041-ii4gbnf49bo75rjouqlgeg5j0q5et3s0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fluttergym",
+            "certificate_hash": "9cc106759e2353c5a1d238e44e64d07c71fbc5b4"
+          }
+        },
+        {
+          "client_id": "973802004041-4p1dcnc0u2ml5278ejuka1k16ieqtprr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO-R89OB8orvsxH_CvErEQ8epRT3QXMvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973802004041-4p1dcnc0u2ml5278ejuka1k16ieqtprr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
